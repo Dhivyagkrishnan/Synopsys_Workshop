@@ -24,6 +24,10 @@ This Repository holds the complete RTL to GDS II flow of Carry Look Ahead Adder 
 2) To check the list of folders or files present in the current directory, type "ls"
 3) `To make a new folder, type: mkdir <RTL2gdsII>`
 4) To change directory type: cd <folder_name>
-3) `Create license file and vcs_setup file(if doesn't exist)`
-4) `Create verilog code file and testbench file using this command: vi <carry_lookahead_adder>.v and vi <cla_tb.v>`
+5) `Create license file and vcs_setup file(if doesn't exist)`
+6) `Create verilog code file and testbench file using this command: vi <carry_lookahead_adder>.v and vi <cla_tb.v>`
+7) For inserting, press 'i' or 'a'.
+8) For saving, type ":w" and enter.
+9 )For coming out of the file type ":q" and enter.
+
  
