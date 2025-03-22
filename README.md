@@ -63,7 +63,7 @@ module carry_lookahead_adder (
 
 endmodule
 ```
-### Test_becnch code
+### Testbench_code
 ```verilog
 `timescale 1ns/1ns
  include "carry_lookahead_adder.v" // includes the module definition for the carry_lookhead_adder
