@@ -66,7 +66,7 @@ endmodule
 ### Test_becnch code
 ```verilog
 `timescale 1ns/1ns
-`include "carry_lookahead_adder.v" // includes the module definition for the carry_lookhead_adder
+```include "carry_lookahead_adder.v" // includes the module definition for the carry_lookhead_adder
 module testbench;
 
     reg [7:0] A, B;  // 8-bit inputs A and B
@@ -84,7 +84,7 @@ module testbench;
     );
 
     initial begin
-    `$fsdbDumpvars();`
+    ```$fsdbDumpvars();
         // Display the output
         $monitor("A = %b, B = %b, Cin = %b, Sum = %b, Cout = %b", A, B, Cin, Sum, Cout);
         
