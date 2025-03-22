@@ -13,7 +13,7 @@ This Repository holds the complete RTL to GDS II flow of Carry Look Ahead Adder 
 `mkdir`      |  make directory 
 `cd`         |  change directory  
 `pwd`        | Present working directory
-`VI Editor`  | Vi test(test file to created):Read mode
+`VI Editor`  | Vi test(to create test file):Read mode
 `I (or) A`   | Insert or append mode
 `cat test`   | displays contents of the file in terminal
 `:w`         | to save the content 
