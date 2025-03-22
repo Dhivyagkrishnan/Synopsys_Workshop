@@ -1,7 +1,6 @@
 # Synopsys_Workshop
-This Repository holds the complete RTL to GDS II flow of Carry Look Ahead Adder
+This Repository holds the complete RTL to GDS II flow of Carry Look Ahead Adder using Synopsys tools
 ## Tools used in the complete flow
-<br><br>
 **Tool** | **Description** |
 :-----------------:|:---------------:|
 `Verdi`            |  Debug & verification tool for RTL analysis and waveform visualization
