@@ -112,6 +112,14 @@ module testbench;
     end
 
 endmodule
+```
+10) Source vcs_setup file and license file using commands:
+`source license.txt`
+`source vcs_setup`
+11) View the contents of the vcs_command file and execute the necessary commands to compile and run the simulation
+12) Once the GUI opens, add test cases to the waveform for analysis and use the schematic view to inspect the design.
+ 
+
 
 
 
