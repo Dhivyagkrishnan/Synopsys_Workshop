@@ -151,17 +151,23 @@ exit
 (Make sure your present working directory is ICCII)
 2) Open the shell using:
 `icc2_shell`
-3) Open floor planning file present in RTL2GDSII>>ICCII>>scripts folder and copy paste each line onto the terminal. 
-4)Three scenarios will be present for floor planning, use any one scenario(Make sure to change your file names for creating new library and block) 
-5)To save library and blocks, use:
-`save_block`
-`save_lib`
-4) To start the gui, type:
-`start_gui`
-5) After floor planning, open power planning, followed by placement, clock tree synthesis and routing files and copy paste one by one in the terminal. You can see the changes in the gui. Routing is the last step in ICCII.
-5) You can get reports in the terminal or icc2 gui console using command `report_placement`
-6) To exit from the shell, use:
-exit
+3) Open floor planning file present in RTL2GDSII>>ICCII>>scripts folder and copy paste each line onto the terminal
+4) Three scenarios will be present for floor planning, use any one scenario(Make sure to change your file names for creating new library and block)
+5) To save library and blocks, use:`save_block``save_lib`
+6) To start the gui, type:`start_gui`
+7) After floor planning, open power planning, followed by placement, clock tree synthesis and routing files and copy paste one by one in the terminal. You can see the changes in the gui. Routing is the last step in ICCII
+8) You can get reports in the terminal or icc2 gui console using command `report_placement`
+9) To exit from the shell, use:`exit`
+ ## Floor Planning
+ ![image](https://github.com/user-attachments/assets/da0e3821-aee0-4606-88c4-abc28d92c8ea)
+ ## Power Planning
+ ![image](https://github.com/user-attachments/assets/06a62c26-b9bf-4642-ae2c-d2cef164a603)
+ ## Placement 
+ ![image](https://github.com/user-attachments/assets/5cbf58e5-7a07-49ce-a901-9a796da5fa5c)
+ ## Routing 
+ ![image](https://github.com/user-attachments/assets/92a2b498-2969-4997-9d80-daa1c2a65187)
+
+
 
  
  
