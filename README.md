@@ -121,9 +121,32 @@ endmodule
 
 ## Waveform 
 ![image](https://github.com/user-attachments/assets/82c6a998-7e26-4172-81ba-f367cd024358)
-
+## Design Compiler(DC):
+1) Source license file and setup_dc files  (Make sure your present working directory is DC folder)
+2) Open run_dc.tcl file and make sure to change your file names in first few lines. (Don't change the name of .sdc file.)
+3) Come back to terminal, open the dc shell using the command:
+`dc_shell`
+4) Source the run_dc.tcl file using:
+`source run_dc.tcl`
+5) To open the GUI, type:
+`start_gui`
+6) You can select your verilog file and in the toolbar, go to Schematic>>New Schematic to view the schematic
+7) Open the run_dc.tcl file, uncomment and copy paste the last line onto the dc_shell terminal. This will write a mapped file in DC>>results folder. 
+8) To get reports, type in terminal:
+`report_cell` (For cells report)
+`report_timing` (For timing report)
+9) For exiting the shell use:
+exit
 ## Schematic of Carry_lookahead_adder
 ![image](https://github.com/user-attachments/assets/6a2bb935-7205-48fd-ad16-71a82d6ebe21)
+## Cell Report 
+![cellreport1 (2)](https://github.com/user-attachments/assets/4e54334f-0fd1-42a0-bc6d-7938c3e11da0)
+![cellreport2 (1)](https://github.com/user-attachments/assets/a28bdc64-e407-4e0c-a83a-341f4fb58bfc)
+## Timing Report 
+![timingreport (1)](https://github.com/user-attachments/assets/82bb4277-6e83-4371-96d7-9ca905b010ae)
+
+
+
 
  
 
