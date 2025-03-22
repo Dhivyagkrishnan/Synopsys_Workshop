@@ -153,7 +153,7 @@ exit
 `icc2_shell`
 3) Open floor planning file present in RTL2GDSII>>ICCII>>scripts folder and copy paste each line onto the terminal
 4) Three scenarios will be present for floor planning, use any one scenario(Make sure to change your file names for creating new library and block)
-5) To save library and blocks, use:`save_block``save_lib`
+5) To save library and blocks, use:`save_block and save_lib`
 6) To start the gui, type:`start_gui`
 7) After floor planning, open power planning, followed by placement, clock tree synthesis and routing files and copy paste one by one in the terminal. You can see the changes in the gui. Routing is the last step in ICCII
 8) You can get reports in the terminal or icc2 gui console using command `report_placement`
