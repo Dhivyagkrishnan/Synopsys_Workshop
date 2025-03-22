@@ -26,8 +26,8 @@ This Repository holds the complete RTL to GDS II flow of Carry Look Ahead Adder 
 4) To change directory type: cd <folder_name>
 5) `Create license file and vcs_setup file(if doesn't exist)`
 6) `Create verilog code file and testbench file using this command: vi <carry_lookahead_adder>.v and vi <cla_tb.v>`
-7) For inserting, press 'i' or 'a'.
-8) For saving, type ":w" and enter.
-9 )For coming out of the file type ":q" and enter.
+7) For inserting, press 'i' or 'a'
+8) For saving, type ":w" and enter
+ 
 
  
