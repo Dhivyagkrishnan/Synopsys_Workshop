@@ -29,6 +29,12 @@ This Repository holds the complete RTL to GDS II flow of Carry Look Ahead Adder 
 7) For inserting, press 'i' or 'a'
 8) For saving, type ":w" and enter
 9) For coming out of the file type ":q" and enter
+# Verilog Code for Carry_lookahead_adder
+```verilog
+
+
+ 
+ 
  
 
  
