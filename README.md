@@ -144,14 +144,24 @@ exit
 ![cellreport2 (1)](https://github.com/user-attachments/assets/a28bdc64-e407-4e0c-a83a-341f4fb58bfc)
 ## Timing Report 
 ![timingreport (1)](https://github.com/user-attachments/assets/82bb4277-6e83-4371-96d7-9ca905b010ae)
-
-
-
-
- 
-
-
-
+## IC Compiler II (ICCII):
+1) Source setup_icc and license files using:
+`source license.txt`
+`source setup_icc`
+(Make sure your present working directory is ICCII)
+2) Open the shell using:
+`icc2_shell`
+3) Open floor planning file present in RTL2GDSII>>ICCII>>scripts folder and copy paste each line onto the terminal. 
+4)Three scenarios will be present for floor planning, use any one scenario(Make sure to change your file names for creating new library and block) 
+5)To save library and blocks, use:
+`save_block`
+`save_lib`
+4) To start the gui, type:
+`start_gui`
+5) After floor planning, open power planning, followed by placement, clock tree synthesis and routing files and copy paste one by one in the terminal. You can see the changes in the gui. Routing is the last step in ICCII.
+5) You can get reports in the terminal or icc2 gui console using command `report_placement`
+6) To exit from the shell, use:
+exit
 
  
  
