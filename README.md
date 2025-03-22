@@ -140,7 +140,7 @@ exit
 ## Schematic of Carry_lookahead_adder
 ![image](https://github.com/user-attachments/assets/6a2bb935-7205-48fd-ad16-71a82d6ebe21)
 ## Cell Report 
-![cellreport1 (2)](https://github.com/user-attachments/assets/4e54334f-0fd1-42a0-bc6d-7938c3e11da0)
+![image](https://github.com/user-attachments/assets/d367d120-7571-4543-8421-647b418ec7a1)
 ![cellreport2 (1)](https://github.com/user-attachments/assets/a28bdc64-e407-4e0c-a83a-341f4fb58bfc)
 ## Timing Report 
 ![timingreport (1)](https://github.com/user-attachments/assets/82bb4277-6e83-4371-96d7-9ca905b010ae)
