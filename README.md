@@ -118,6 +118,13 @@ endmodule
 `source vcs_setup`
 11) View the contents of the vcs_command file and execute the necessary commands to compile and run the simulation
 12) Once the GUI opens, add test cases to the waveform for analysis and use the schematic view to inspect the design.
+
+## Waveform 
+![image](https://github.com/user-attachments/assets/82c6a998-7e26-4172-81ba-f367cd024358)
+
+## Schematic of Carry_lookahead_adder
+![image](https://github.com/user-attachments/assets/6a2bb935-7205-48fd-ad16-71a82d6ebe21)
+
  
 
 
